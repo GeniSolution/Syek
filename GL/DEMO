@@ -1,0 +1,3 @@
+DEMO
+#DEMO#
+[code_postale_societe] strgvr(100)  NULL#-# [contact_societe] strgvr(100)  NULL#-# [cin] strgvr(100)  NULL#-# [validite_cin] dtgr  NULL#-# [id_delivree_a_cin] ngtr  NULL#-# [nomfr] strgvr(100)  NULL#-# [prenomfr] strgvr(100)  NULL#-# [nomar] nstrgvr(100)  NULL#-# [prenomar] nstrgvr(100)  NULL#-# [civilite] strgvr(100)  NULL#-# [dtgr_naissance] dtgr  NULL#-# [id_ville_naissance] ngtr  NULL#-# [adressefr] strgvr(200)  NULL#-# [id_ville_adresse] ngtr  NULL#-# [code_postale] VARCHAR(100)  NULL#-# [numero_permis] strgvr(100)  NULL#-# [delivre_le_permis] dtgr  NULL#-# [validite_permis] dtgr  NULL
